@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard for tracking sales performance and commissions.
 
-![Dashboard Demo](./demo.gif)
+![Dashboard Demo](./Demo.gif)
 
 ## 📊 Overview
 
